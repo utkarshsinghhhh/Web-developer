@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="309" height="36" viewBox="0 0 309 36">
+  <g id="About_Us_button" data-name="About Us button" transform="translate(-101 -1189)">
+    <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(101 1189)" fill="none" stroke="#7a008a" stroke-width="2">
+      <rect width="309" height="36" rx="17" stroke="none"/>
+      <rect x="1" y="1" width="307" height="34" rx="16" fill="none"/>
+    </g>
+    <g id="Group_3" data-name="Group 3" transform="translate(-2 -1)">
+      <text id="Book_a_Consutation" data-name="Book a Consutation" transform="translate(137 1217)" fill="#7a008a" font-size="24" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Book a Consutation</tspan></text>
+    </g>
+  </g>
+</svg>
